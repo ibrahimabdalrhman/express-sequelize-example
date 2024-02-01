@@ -3,10 +3,11 @@ This repository contains a simple CRUD (Create, Read, Update, Delete) API built 
 
 ## Features:
 
- - ** Product Management: **  CRUD operations for products, including creation, retrieval, update, and deletion.
- - ** User Authentication:  **  Secure user authentication with JWT.
- - ** Role-Based Authorization:** Role-Based Authorization:
- - **Database Integration:** Utilizes Sequelize ORM to interact with a MySQL database.
+- **Product Management:** CRUD operations for products, including creation, retrieval, update, and deletion.
+- **User Authentication:** Secure user authentication with JWT.
+- **Role-Based Authorization:** Role-based checks to control access, ensuring users can only manage their own products.
+- **Database Integration:** Utilizes Sequelize ORM to interact with a MySQL database.
+
 
 
 ## Technologies Used
