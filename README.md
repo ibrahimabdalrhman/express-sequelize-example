@@ -1,12 +1,12 @@
 # Sequelize Express CRUD API
 This repository contains a simple CRUD (Create, Read, Update, Delete) API built using Sequelize, Express.js, and MySQL. The API provides endpoints for managing products and users. It includes user authentication using JSON Web Tokens (JWT) and integrates with a MySQL database using Sequelize ORM.
 
-## Funcionalidades:
+## Features:
 
- - ** Product Management: ** CRUD operations for products, including creation, retrieval, update, and deletion.
+ - ** Product Management: **  CRUD operations for products, including creation, retrieval, update, and deletion.
  - ** User Authentication:  **  Secure user authentication with JWT.
- - ** Role-Based Authorization:**Role-Based Authorization:
- - **Database Integration:**Utilizes Sequelize ORM to interact with a MySQL database.
+ - ** Role-Based Authorization:** Role-Based Authorization:
+ - **Database Integration:** Utilizes Sequelize ORM to interact with a MySQL database.
 
 
 ## Technologies Used
